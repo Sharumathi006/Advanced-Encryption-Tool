@@ -1,0 +1,14 @@
+admin
+login
+dashboard
+uploads
+images
+css
+js
+api
+config
+backup
+private
+test
+dev
+secret
